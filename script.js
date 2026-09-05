@@ -1,1 +1,1 @@
-alert("JavaScript successfully connected!")
+alert("JavaScript successfully connected!");
